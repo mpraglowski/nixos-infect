@@ -10,7 +10,7 @@ How to start a new NixOS droplet on Digital Ocean using nixos-infect:
 * Add your key to ~/.ssh/authorized_keys and SSH in as root.
 * Download nixos-infect:
 ```
-wget https://raw.githubusercontent.com/elitak/nixos-infect/master/nixos-infect
+wget https://raw.githubusercontent.com/mpraglowski/nixos-infect/master/nixos-infect
 ```
 * Run nixos-infect:
 ```
